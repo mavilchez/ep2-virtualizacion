@@ -1,2 +1,2 @@
 # ep2-virtualizacion
-Evaluacion Partial virtualizacion
+Evaluacion Parcial virtualizacion
